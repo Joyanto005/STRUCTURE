@@ -1,13 +1,12 @@
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png" group-title="Bangla", BTV HD
-https://cdn.querysports.com:443/hls/toffeebn_1300.m3u8
+http://103.230.105.252:1935/live/btv/manifest.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaTMeVVsiE2u5vxZf4t3BlLNr3IHgr6zksrFL_mmlK_g&s" group-title="Bangla", BTV WORLD
-http://xtv.ooo:8080/88654455/97543255/245922
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSifCNNxM9YxeraG3S0eNpIYPaB6p4xoOMfqiXC61eEQ&s" group-title="Bangla", BTV Chattogram
-https://www.btvlive.gov.bd:443/streams/c4188327-ee43-44a4-8bcc-5a10c9ed7977/BD/a707f2dc-9704-413a-a67c-17c64a77c350/a707f2dc-9704-413a-a67c-17c64a77c350_1_playlist.m3u8
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gBnXHNayvDOukFLM78QYxgU
+
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0fVlrutkDhj-y3MAIgmWEu2fLJ-nxc618Jg&usqp=CAU" group-title="Bangla", Sangsad TV
 http://xtv.ooo:8080/88654455/97543255/245940
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="Bangla", ATN News
-http://xtv.ooo:8080/88654455/97543255/245905
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gPzP84Bq7_OqDyCUNlwhXuk
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/2560px-ATN_Bangla.svg.png" group-title="Bangla", ATN Bangla
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDI0IDM6NDk6MDkgUE0maGFzaF92YWx1ZT1mZlpkY3k0Sy9IT0l6Z1d2djVnVnJ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="Bangla", Asian TV
