@@ -18,5 +18,7 @@ http://172.20.2.5:8082/ATN-NEWS/tracks-v1a1/mono.m3u8?token=ac3eb63ed6afb2778113
 http://172.20.2.5:8082/JAMUNA-TV/tracks-v1a1/mono.m3u8?token=3f130df1611c586493ea0aefa71519770f247ee4-8607a71b08fdb7dc856ddccb711a4af6-1723660672-1723649872
 #EXTINF: -1 tvg-logo="http://www.atnbangla.tv/wp-content/uploads/2015/09/atn-bangla-logo-last.png" group-title="Bangla", ATN BANGLA
 http://172.20.2.5:8082/ATN-BANGLA/tracks-v1a1/mono.m3u8?token=0ad61d0d9ff1702b260df686609cd05e59c0b8eb-27569e11d02d954fd7eeb1bc71f46162-1723660743-1723649943
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png" group-title="Bangla", BTV HD
-http://103.230.105.252:1935/live/btv/manifest.m3u8
+#EXTINF: -1 tvg-logo="https://seeklogo.com/images/B/boishakhi-tv-logo-2C2684A2A6-seeklogo.com.png" group-title="Bangla", BOISHAKI TV
+http://172.20.2.5:8082/BOISHAKI-TV/tracks-v1a1/mono.m3u8?token=b5d65ad9c139f5bfbe7ffd554184d87b9f6eada7-6dfc09d742803667e9674d9894f8a98b-1723661376-1723650576
+#EXTINF: -1 tvg-logo="https://www.bvnews24.com/media/common/newbvlogowhite.png" group-title="Bangla", BANGLAVISION TV
+http://172.20.2.5:8082/BANGLAVISION-TV/tracks-v1a1/mono.m3u8?token=86b18d86c398b3aee12594f2aed3095d95e7764d-7878aa66d7c24d5f907e329b4e925a6f-1723661699-1723650899
