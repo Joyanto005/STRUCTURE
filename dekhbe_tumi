@@ -1,0 +1,22 @@
+#EXTINF: -1 tvg-logo="https://www.somoynews.tv/_nuxt/img/somoy-logo-192x192.33c3254.png" group-title="Bangla", SOMOY NEWS
+http://172.20.2.5:8082/SOMOY-NEWS/tracks-v1a1/mono.m3u8?token=c14610eacf4731945cb809cc70bd5d6c1584b3ae-171c59fd3b914adc43c1fe185a033f05-1723658884-1723648084
+#EXTINF: -1 tvg-logo="https://cdn.itvbd.net/contents/themes/public/style/images/logo.png" group-title="Bangla", INDEPENDENT TV
+http://172.20.2.5:8082/INDPENDENT-TV/tracks-v1a1/mono.m3u8?token=5e5327267820d9c29847709feebfb1cb840945c0-52ce1d3d83f70423b7dfafd08e3d609a-1723659051-1723648251
+#EXTINF: -1 tvg-logo="https://maasranga.tv/wp-content/uploads/2023/11/cropped-Logo-for-website-1.jpg" group-title="Bangla", MAASRANGA TV
+http://172.20.2.5:8082/MASRANGA-TV/tracks-v1a1/mono.m3u8?token=1d00e35f5b64ed6e9b78e7aa6eb7fa0ceaebf2d9-c356eabe8074ae300b4933ca44027cac-1723659315-1723648515
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQizCBUrNdaJoJoXYOM1IdUueKiR85NiRxp7I3u6_IWsnwLJ1GbiXeToZY&s=10" group-title="Bangla", RTV
+http://172.20.2.5:8082/RTV/tracks-v1a1/mono.m3u8?token=d7d7b4a60a8cb4f6ba433b58ac36e7907d940613-1a3b4d8720d74f8bde6f88d7a67b92fc-1723659383-1723648583
+#EXTINF: -1 tvg-logo="https://150593535.v2.pressablecdn.com/wp-content/uploads/2024/04/channel-i-logo-1-2.png" group-title="Bangla", CHANNEL I 
+http://172.20.2.5:8082/CHANNEL-I/tracks-v1a1/mono.m3u8?token=367a6d07b49525fa220a05c662ffe91fa965ebd3-d54e8019c9aa95676c6364776001f624-1723659573-1723648773
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPhSqXP0701dcQPT24wcCrUxA3IDGpzV3-8YzzETMXKus8oMBMlyl_wOk&s=10" group-title="Bangla", DBC NEWS
+http://172.20.2.5:8082/DBC-NEWS/tracks-v1a1/mono.m3u8?token=cd69552812add3ca56ccd265c2cf4dbdcb04fc27-8e8f51d42d728a20bf80604907c748ec-1723659676-1723648876
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV4ZSS6DQT8QEpLNgTBaodTNuDsI8FqcTWsA&s" group-title="Bangla", NTV
+http://172.20.2.5:8082/NTV/tracks-v1a1/mono.m3u8?token=ad765e962f994660eabd86ead550bcbe493ffa2d-54c0241a4f9e92038c4b803243a9657a-1723659958-1723649158
+#EXTINF: -1 tvg-logo="https://seeklogo.com/images/A/atn-news-logo-6A3E3EC072-seeklogo.com.png" group-title="Bangla", ATN NEWS
+http://172.20.2.5:8082/ATN-NEWS/tracks-v1a1/mono.m3u8?token=ac3eb63ed6afb2778113a32e5d6b3eee3b28f33a-87a7e16aae0c7d6f00b9bd3a8fe3b7a3-1723660104-1723649304
+#EXTINF: -1 tvg-logo="https://jamuna.tv/wp-content/themes/jtv-news/img/logo.png" group-title="Bangla", JAMUNA TV
+http://172.20.2.5:8082/JAMUNA-TV/tracks-v1a1/mono.m3u8?token=3f130df1611c586493ea0aefa71519770f247ee4-8607a71b08fdb7dc856ddccb711a4af6-1723660672-1723649872
+#EXTINF: -1 tvg-logo="http://www.atnbangla.tv/wp-content/uploads/2015/09/atn-bangla-logo-last.png" group-title="Bangla", ATN BANGLA
+http://172.20.2.5:8082/ATN-BANGLA/tracks-v1a1/mono.m3u8?token=0ad61d0d9ff1702b260df686609cd05e59c0b8eb-27569e11d02d954fd7eeb1bc71f46162-1723660743-1723649943
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png" group-title="Bangla", BTV HD
+http://103.230.105.252:1935/live/btv/manifest.m3u8
