@@ -1,4 +1,6 @@
 #EXTINF:0,Planet Fun
+http://172.20.2.5:8082/GTV/tracks-v1a1/mono.m3u8?token=b54b6f57b2c984d82fe4a1c7606551dc8039e773-770795e464b53ed8e80eea44e712e09f-1723658279-1723647479
+#EXTINF:0,Planet Fun
 http://103.84.57.155:8000/play/a0au/index.m3u8
 #EXTINF:0,Disney Chan-Rs8
 http://103.84.57.155:8000/play/a03u/index.m3u8
