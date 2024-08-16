@@ -1,7 +1,7 @@
 #EXTINF: -1 tvg-logo="https://www.somoynews.tv/_nuxt/img/somoy-logo-192x192.33c3254.png" group-title="Bangla", SOMOY NEWS
-http://172.20.2.5:8082/SOMOY-NEWS/tracks-v1a1/mono.m3u8?token=c14610eacf4731945cb809cc70bd5d6c1584b3ae-171c59fd3b914adc43c1fe185a033f05-1723658884-1723648084
+https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/video.m3u8
 #EXTINF: -1 tvg-logo="https://cdn.itvbd.net/contents/themes/public/style/images/logo.png" group-title="Bangla", INDEPENDENT TV
-http://172.20.2.5:8082/INDPENDENT-TV/tracks-v1a1/mono.m3u8?token=5e5327267820d9c29847709feebfb1cb840945c0-52ce1d3d83f70423b7dfafd08e3d609a-1723659051-1723648251
+https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 #EXTINF: -1 tvg-logo="https://maasranga.tv/wp-content/uploads/2023/11/cropped-Logo-for-website-1.jpg" group-title="Bangla", MAASRANGA TV
 http://172.20.2.5:8082/MASRANGA-TV/tracks-v1a1/mono.m3u8?token=1d00e35f5b64ed6e9b78e7aa6eb7fa0ceaebf2d9-c356eabe8074ae300b4933ca44027cac-1723659315-1723648515
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQizCBUrNdaJoJoXYOM1IdUueKiR85NiRxp7I3u6_IWsnwLJ1GbiXeToZY&s=10" group-title="Bangla", RTV
