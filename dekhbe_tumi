@@ -34,3 +34,13 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
 #EXTINF: -1 tvg-logo="https://ekhon.tv/logo.png" group-title="Bangla", BTV HD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/globaltv.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/8c/Star_Jalsha_logo.png?20210308171357" group-title="Indian Bangla", STAR JALSHA
+http://humsab.xyz/IN_JALSHAS/index.m3u8
+#EXTINF: -1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Zee_Bangla_HD.png" group-title="Indian Bangla", ZEE BANGLA
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
+#EXTINF: -1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Zee_Bangla_HD.png" group-title="Indian Bangla", ZEE BANGLA
+http://humsab.xyz/IN_ZEBS/index.m3u8
+#EXTINF: -1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Zee_Bangla_Cinema.png" group-title="Indian Bangla", ZEE BANGLA CINEMA 
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="Indian Bangla", ENTER 10 BANGLA 
+https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
