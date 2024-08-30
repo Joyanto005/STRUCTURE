@@ -10,6 +10,8 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPhSqXP0701dcQPT24wcCrUxA3IDGpzV3-8YzzETMXKus8oMBMlyl_wOk&s=10" group-title="Bangla", DBC NEWS
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://seeklogo.com/images/B/bangla-tv-logo-6B727D20B2-seeklogo.com.png" group-title="Bangla", BANGLA TV
+https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV4ZSS6DQT8QEpLNgTBaodTNuDsI8FqcTWsA&s" group-title="Bangla", NTV
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=5149cfic&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 #EXTINF: -1 tvg-logo="https://seeklogo.com/images/A/atn-news-logo-6A3E3EC072-seeklogo.com.png" group-title="Bangla", ATN NEWS
@@ -32,10 +34,12 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://seeklogo.com/images/D/desh-tv-logo-7938254B94-seeklogo.com.png" group-title="Bangla", DESH TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://ekhon.tv/logo.png" group-title="Bangla", BTV HD
+#EXTINF: -1 tvg-logo="https://ekhon.tv/logo.png" group-title="Bangla", EKHON TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/globaltv.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/8c/Star_Jalsha_logo.png?20210308171357" group-title="Indian Bangla", STAR JALSHA
 http://humsab.xyz/IN_JALSHAS/index.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/8c/Star_Jalsha_logo.png?20210308171357" group-title="Indian Bangla", STAR JALSHA
+http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
 #EXTINF: -1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Zee_Bangla_HD.png" group-title="Indian Bangla", ZEE BANGLA
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
 #EXTINF: -1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Zee_Bangla_HD.png" group-title="Indian Bangla", ZEE BANGLA
