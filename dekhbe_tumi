@@ -58,6 +58,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m
 http://humsab.xyz/IN_STGOLD/index.m3u8
 #EXTINF: -1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Sony_Max_HD.png" group-title="HINDI MOIVES", SONY MAX
 http://116.202.46.40:9023/SONY_MAX_HINDI/index.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=184&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF: -1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Sony_MAX2.png" group-title="HINDI MOIVES", SONY MAX2
 http://humsab.xyz/IN_S_X2/mpegts?token=f7aa562528f2909e7f249d2152b3655f
 #EXTINF: -1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Sony_MAX2.png" group-title="HINDI MOIVES", SONY MAX2
