@@ -1,8 +1,8 @@
 #EXTINF: -1 tvg-logo="https://www.somoynews.tv/_nuxt/img/somoy-logo-192x192.33c3254.png" group-title="Bangla", SOMOY NEWS
 http://172.20.2.5:8082/NICK/tracks-v1a1/mono.m3u8?token=8e8dd5acafaeece9bb0c639fb04a2c711b3588d0-5e6a56faccd4495b453dc5427fa0166f-1727595823-1727585023
-#EXTINF: -1 tvg-logo="https://www.somoynews.tv/_nuxt/img/somoy-logo-192x192.33c3254.png" group-title="Bangla", SOMOY NEWS
+#EXTINF: -1 tvg-logo="https://www.somoynews.tv/_nuxt/img/somoy-logo-192x192.33c3254.png" group-title="Bangla", SOMjOY NEWS
 http://172.20.2.5:8082/SOMOY-NEWS/index.m3u8?token=a514673ca862cdb9ac65be18123c338adcc7769a-0aff0a7283b876d1037b66fdbefd325d-1727596827-1727586027
-#EXTINF: -1 tvg-logo="https://www.somoynews.tv/_nuxt/img/somoy-logo-192x192.33c3254.png" group-title="Bangla", SOMOY NEWS
+#EXTINF: -1 tvg-logo="https://www.somoynews.tv/_nuxt/img/somoy-logo-192x192.33c3254.png" group-title="Bangla", SOMgOY NEWS
 http://172.20.2.5:8082/ZEE-BANGLA/index.m3u8?token=6fb4fe4e62f460bda98ede042ece1957565d09c6-358126efb8920e1775de2231f7f42a85-1727596883-1727586083
-#EXTINF: -1 tvg-logo="https://www.somoynews.tv/_nuxt/img/somoy-logo-192x192.33c3254.png" group-title="Bangla", SOMOY NEWS
+#EXTINF: -1 tvg-logo="https://www.somoynews.tv/_nuxt/img/somoy-logo-192x192.33c3254.png" group-title="Bangla", SOiMOY NEWS
 http://172.20.2.5:8082/JALSHA-MOVIES/index.m3u8?token=83a6ffff2d181ec541e7c46522327a85a17a5c8e-f359613f00b35183b3fbd8e62f75ef9b-1727596905-1727586105
