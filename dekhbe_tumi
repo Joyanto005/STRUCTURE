@@ -1,3 +1,5 @@
+#EXTINF: -1 tvg-logo="https://www.somoynews.tv/_nuxt/img/somoy-logo-192x192.33c3254.png" group-title="Bangla", JALSHA MOIVES HD
+http://172.20.2.5:8082/JALSHA-MOVIES/index.m3u8?token=83a6ffff2d181ec541e7c46522327a85a17a5c8e-f359613f00b35183b3fbd8e62f75ef9b-1727596905-1727586105
 #EXTINF: -1 tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=750&q=75" group-title="Bangla", BTV HD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Btv-g.stream/playlist.m3u8
 http://172.105.123.238:18002/play/a038
