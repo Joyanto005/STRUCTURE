@@ -82,3 +82,5 @@ http://tv.cloudcdn.me/live.ts?channelId=184&uid=13603&deviceMac=00:1A:79:64:B4:A
 http://humsab.xyz/IN_S_X2/mpegts?token=f7aa562528f2909e7f249d2152b3655f
 #EXTINF: -1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Sony_MAX2.png" group-title="HINDI MOIVES", SONY MAX2
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://arydigital.tv/img/digital-logo.gif" group-title="HINDI MOIVES", ARY DIGITAL
+https://arydigital.aryzap.com/d67c142c62e69ab50d9db97e8b2e4a07/670e86b3/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/main.m3u8?uuid=06d8ecc9-6772-4859-bebd-6a139130d2c5
