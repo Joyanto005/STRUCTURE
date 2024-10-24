@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTM3U
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://cdn6.aptoide.com/imgs/d/b/e/dbe3b48f1cae5af4710e96377580ab1f_icon.png",PTV Sports 
-http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2345.m3u8
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2345.ts
 #EXTINF:-1 tvg-logo="https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg" group-title="Bangla:" BTV HD
-http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2345.m3u8
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2345.ts
 #EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Bangla” ATN BANGLA
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2341.m3u8
 #EXTINF:-1 tvg-logo=“https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg” group-title=“Bangla” Ekattor TV
