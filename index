@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://cdn6.aptoide.com/imgs/d/b/e/dbe3b48f1cae5af4710e96377580ab1f_icon.png",PTV Sports 
+https://tmsbd.top/poott/bz.php?id=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max/playlist.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://cdn6.aptoide.com/imgs/d/b/e/dbe3b48f1cae5af4710e96377580ab1f_icon.png",PTV Sports 
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",Ary Sports 
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
