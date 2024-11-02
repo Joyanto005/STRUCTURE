@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF: -1 tvg-logo="✨️" group-title="Bangla", SOMOY NEWS
+http://172.20.2.5:8082/SOMOY-NEWS/index.m3u8?token=20afc96bf5ea5718d5634b552e9fe1ed483477f8-ecae0aa811c173bd41f78bab44ba516b-1730544432-1730533632
+#EXTINF: -1 tvg-logo="✨️" group-title="Bangla", Independent
+http://172.20.2.5:8082/INDPENDENT-TV/index.m3u8?token=4ae72a211ae37358edaa2d2cf882997af3ccdf5b-6bd4b0cd930c158b467adacb6e6d8a57-1730544462-1730533662
+#EXTINF: -1 tvg-logo="✨️" group-title="Bangla", Maasranga TV
+http://172.20.2.5:8082/MASRANGA-TV/index.m3u8?token=1ecd80fddaca61a9f52f0377960a5a8c9b908393-a729871c96a6bd5bce19a785e7dfd7e4-1730544514-1730533714
+#EXTINF: -1 tvg-logo="✨️" group-title="Bangla", RTV
+http://172.20.2.5:8082/RTV/index.m3u8?token=4033d82ddb76682b91b2d08922172645947de912-eab2c673cad9bb09727ab11db00f502f-1730544543-1730533743
+#EXTINF: -1 tvg-logo="✨️" group-title="Bangla", Channel I
+http://172.20.2.5:8082/CHANNEL-I/index.m3u8?token=ac6bbee1c782056ab0346501adee0387603b8e4c-ae89cc1072a7cbbba3fda1b6edf17997-1730544606-1730533806
+#EXTINF: -1 tvg-logo="✨️" group-title="Bangla", DBC News
+http://172.20.2.5:8082/DBC-NEWS/index.m3u8?token=28f8519812ced91ac64d732e56c05ff1db3a6fcc-79994d9c81e54d0a8f73b1cfa1706c21-1730544735-1730533935
+#EXTINF: -1 tvg-logo="✨️" group-title="Bangla", ATN News
+http://172.20.2.5:8082/ATN-NEWS/index.m3u8?token=0944ee58fee40c5c83a1c232e11f8743ef93ff5a-c2783854fa29e547bb640ce366dd9144-1730544848-1730534048
+#EXTINF: -1 tvg-logo="✨️" group-title="Bangla", Jamuna TV
+http://172.20.2.5:8082/JAMUNA-TV/index.m3u8?token=271d8ce822f705b1ca66aec543d67a1c5cb38d86-e67c843378b2e3d04920a23949d50b9b-1730544912-1730534112
+#EXTINF: -1 tvg-logo="✨️" group-title="Bangla", ATN Bangla
+http://172.20.2.5:8082/ATN-BANGLA/index.m3u8?token=d92ee54933b630e90996b1f961ff506be27db435-44f642a100fb656371e89328dfcf6667-1730544969-1730534169
+#EXTINF: -1 tvg-logo="✨️" group-title="Bangla", Boishakhi TV
+http://172.20.2.5:8082/BOISHAKI-TV/index.m3u8?token=a18c949186f8590259b4bebeb94dd31be0c4213f-2d1fd1d70bf866e090fe3067371b1f8e-1730545085-1730534285
+#EXTINF: -1 tvg-logo="✨️" group-title="Bangla", Banglavision
+http://172.20.2.5:8082/BANGLAVISION-TV/index.m3u8?token=1fbe760002eb3cf1a540843712c5ee06755a15ef-05960d6978bd6c621119981c14039587-1730545156-1730534356
+#EXTINF: -1 tvg-logo="✨️" group-title="Bangla", Sony Aath
+http://172.20.2.5:8082/SONY-ART/index.m3u8?token=b37e650efc6d017bf607cd038ab780bab7f931cc-7e877a10527271194eae9f92a3ca5b26-1730545221-1730534421
+#EXTINF: -1 tvg-logo="✨️" group-title="Bangla", Zee Bangla
+http://172.20.2.5:8082/ZEE-BANGLA/index.m3u8?token=bbf4158ebbf4bf3e159e56b266f3a7b6edbd3e4c-2460a188f575e3ae5d6c8cf32b98fa21-1730545410-1730534610
+#EXTINF: -1 tvg-logo="✨️" group-title="Bangla", Star Jalsha
+http://172.20.2.5:8082/STAR-JALSHA/index.m3u8?token=9171471eb8c8d03a2ef6eb0040fe6b681c382d24-b675f2b02ff68827a9bfc60494d35795-1730545500-1730534700
